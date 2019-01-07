@@ -24,4 +24,3 @@ open http://localhost:3000
 ```
 
 Includes only dev environment build target.
-# react-drift
