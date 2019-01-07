@@ -40,16 +40,11 @@
     "postcss-import": "10.0.0",
     "postcss-loader": "2.0.6",
     "prop-types": "15.5.10",
-    "radium": "^0.25.1",
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-styleable": "3.2.0",
     "style-loader": "0.18.2",
     "webpack": "3.5.4",
     "webpack-dev-server": "^2.7.1"
-  },
-  "dependencies": {
-    "autobind-decorator": "^2.4.0",
-    "style-loader": "^0.18.2"
   }
 }
