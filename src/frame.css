@@ -1,3 +1,8 @@
+/* explicit import depedency */
 @import "./config.css";
 
- 
+.root {
+  max-width: 100%;
+  margin: 50px auto;
+  width: var(--imageWidth);
+}

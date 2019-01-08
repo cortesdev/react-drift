@@ -24,6 +24,11 @@ module.exports = {
     }, {
       test: /\.jpg/, 
       loader: 'file'
-    }]
+    },
+    {
+      test: /\.css/, 
+      loader: ['stye', 'css?modules&localIdentName=[local]---[hash:base64:5]', 'cssnext']
+    }
+  ]
   }
 }

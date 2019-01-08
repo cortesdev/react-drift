@@ -38,6 +38,8 @@ export default class DriftApp extends React.Component {
     )
   }
   render() {
+    const imageWidth = 640 // from css
+
     return (
       <Frame>
         <Carousel
